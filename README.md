@@ -41,7 +41,7 @@ func main() {
 Release Notes 
 ===============
 
-See Notes Here on release.txt
+See Notes on release.txt
 
 Author
 =======
