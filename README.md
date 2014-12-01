@@ -14,7 +14,7 @@ USAGE
 ```
 import (
 	"fmt"
-	"goscreenscraper"
+	"github.com/lesvolanolas/goscreenscraper"
 )
 
 func main() {
