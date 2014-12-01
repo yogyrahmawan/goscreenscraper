@@ -6,7 +6,7 @@ Go Screen Scrapper is library for screen scraping. It's support get and post met
 INSTALL
 ========
 
-go get github.com/lesvolanolas/goscreenscraper
+go get github.com/yogyrahmawan/goscreenscraper
 
 USAGE
 ========
@@ -14,7 +14,7 @@ USAGE
 ```
 import (
 	"fmt"
-	"github.com/lesvolanolas/goscreenscraper"
+	"github.com/yogyrahmawan/goscreenscraper"
 )
 
 func main() {
